@@ -2689,7 +2689,7 @@ input, select, textarea {
 			width: 100%;
 			background: #26cc04;
 			background: rgba(92, 241, 6, 0.75);
-			color: #fff;
+			color: rgb(255, 255, 255);
 			padding: 1.5em 0;
 		}
 
@@ -2705,7 +2705,7 @@ input, select, textarea {
 				}
 
 				#banner header h2 a {
-					border-bottom-color: rgba(92, 241, 6, 0.75);
+					border-bottom-color: #5cf106bf;
 				}
 
 					#banner header h2 a:hover {
@@ -2724,7 +2724,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background: #fff;
+			background: #ffffff;
 		}
 
 		.wrapper.style2 {
@@ -2736,7 +2736,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #37c0fb;
+			background-color: #5cf106;
 			background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
 			background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("images/bg01.png");
